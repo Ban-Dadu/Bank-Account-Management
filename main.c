@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+<<<<<<< HEAD
 //max 100 accounts
 int accNumber[100];
 int accPin[100];
@@ -136,5 +137,13 @@ int main() {
     } while (choice != 6);
 
     printf("Thank you!\n");
+=======
+int main(){
+    printf("hi");
+    printf("hi heloo");
+    printf("hello mtf");
+    printf("hello mmmmm");
+    printf("new");
+>>>>>>> c1291b78869871a4c19865ee801d5f122c718c18
     return 0;
 }
